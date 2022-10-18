@@ -2,7 +2,7 @@
 
 
 # Lien de Figma
-## [Clicker ici](https://www.figma.com/file/v2lxnGdvrIhD9SYBSZMy95/Brief-2?node-id=38%3A2388)
+## [Clicker ici](https://www.figma.com/file/v2lxnGdvrIhD9SYBSZMy95/Brief-2?node-id=0%3A1)
 
 # Lien de trello
 ## [Clicker ici](https://trello.com/b/rpQXnVCE/aa)
