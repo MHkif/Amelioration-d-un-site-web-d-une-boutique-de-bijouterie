@@ -125,6 +125,7 @@
 @media screen and (max-width:700px) {
   .custom_nav-container.navbar-expand-lg .navbar-nav .nav-link {
     color: #000000;
+    /*  */
   }
   .Container{
     display: flex;
@@ -143,11 +144,11 @@
     justify-items: center;
   }
   .subtitle {
-    width: 510px;
+    width: 375px;
     color: rgba(156, 155, 155, 1);
     font-family: Poppins;
     font-weight: normal;
-    font-size: 20px;
+    font-size: 18px;
     text-align: left;
   }
 
