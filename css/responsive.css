@@ -115,12 +115,125 @@
   }
 }
 
-@media (max-width: 360px) {
-  
-}
 
 @media (min-width: 1200px) {
   .container {
     max-width: 1170px;
+  }
+}
+
+@media screen and (max-width:700px) {
+  .custom_nav-container.navbar-expand-lg .navbar-nav .nav-link {
+    color: #000000;
+  }
+  .Container{
+    display: flex;
+    flex-direction: column;
+  }
+ 
+  .contactForm{
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+  }
+  .contactFrame{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+  }
+  .subtitle {
+    width: 510px;
+    color: rgba(156, 155, 155, 1);
+    font-family: Poppins;
+    font-weight: normal;
+    font-size: 20px;
+    text-align: left;
+  }
+
+  .title {
+    width: 144px;
+    color: rgba(54, 54, 54, 1);
+    font-family: Poppins;
+    font-weight: 600; 
+    font-size: 25px;
+     text-align: left;
+   } 
+
+  .email { 
+    color: rgba(253, 121, 0, 1);
+    font-family: Poppins;
+    font-weight: Medium;
+    font-size: 20px; 
+    text-align: left;
+  
+   } 
+ 
+  .contact-txt{
+    width: 89%;
+    font-weight: 600;
+  }
+  
+  .form-group{
+    width: 100%;
+  }
+}
+
+@media (max-width: 360px) {
+ 
+  .Container{
+    display: flex;
+    flex-direction: column;
+  }
+  .contactForm{
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+  }
+  .get-in-t{
+    font-size: 22px;
+  }
+  .contactFrame{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+  }
+  .contact-txt{
+   
+    width: 80%;
+    font-size: 15px;
+    font-weight: 600;
+  }
+  
+  .subtitle {
+    width: 340px;
+    color: rgba(156, 155, 155, 1);
+    font-family: Poppins;
+    font-weight: normal;
+    font-size: 14px;
+    text-align: left;
+  }
+
+  .title {
+    /* width: 144px; */
+    color: rgba(54, 54, 54, 1);
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 18px;
+    text-align: left;
+  }
+
+  .email { 
+    color: rgba(253, 121, 0, 1);
+    font-family: Poppins;
+    font-weight: Medium;
+    font-size: 14px;
+    text-align: left;
+  
+  }
+
+  .form-group{
+    width: 100%;
   }
 }
